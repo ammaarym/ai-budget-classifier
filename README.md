@@ -1,8 +1,7 @@
-# 🤖 Actual AI – Intelligent Transaction Categorization for Actual Budget
+# 🤖 Intelligent Transaction Categorization for Actual Budget
 
 **Automate and enhance your budgeting experience with AI-powered transaction classification.**
 
-Actual AI is a smart companion for [Actual Budget](https://actualbudget.org), designed to intelligently categorize your uncategorized transactions using LLMs like OpenAI, Anthropic, Google Generative AI, Ollama, and other compatible APIs.
 
 ---
 
